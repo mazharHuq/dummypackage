@@ -1,0 +1,19 @@
+{
+    "name": "mazharul/dummypackage",
+    "description": "Testing",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mazharul\\Dummypackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mazharul-haq",
+            "email": "mazharulpes21@gmail.com"
+        }
+    ],
+    "require": {
+        "erusev/parsedown": "^1.7"
+    }
+}
